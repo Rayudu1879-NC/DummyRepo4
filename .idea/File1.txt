@@ -5,6 +5,10 @@ this is from line4
 this is from the line4 Stashed changes
 
 this is from line5 for git stash changes
+<<<<<<< HEAD
 this is for the line8 of file1 from feature2
 
 this is from line8 for file1 of feature2
+=======
+this is from line8 of file1 for feature1
+>>>>>>> 418e8b1 (added line8 of feature1 for file 1)
