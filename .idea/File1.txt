@@ -1,4 +1,8 @@
 this is from the file1
 this is from the file2
 this is from line3
+<<<<<<< Updated upstream
 this is from line4
+=======
+this is from the line4
+>>>>>>> Stashed changes
