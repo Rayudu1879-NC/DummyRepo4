@@ -5,3 +5,4 @@ this is from line4
 this is from the line4 Stashed changes
 
 this is from line5 for git stash changes
+this is for the line8 of file1 from feature2
