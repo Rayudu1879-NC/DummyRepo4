@@ -12,3 +12,5 @@ this is from line8 for file1 of feature2
 
 this is from line8 of file1 for feature1
 
+this is new 15th line
+
